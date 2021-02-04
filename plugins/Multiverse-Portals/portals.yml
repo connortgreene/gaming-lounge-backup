@@ -1,0 +1,61 @@
+portals:
+  tothesafeland:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -2116.0,55.0,2659.0:-2116.0,55.0,2659.0
+    world: world
+    destination: p:tocovid
+  tocovid:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -114.0,5.0,113.0:-113.0,5.0,114.0
+    world: bunker
+    destination: p:tothesafeland
+  endportal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -4238.0,62.0,1885.0:-4237.0,62.0,1886.0
+    world: world
+    destination: p:tocovid
+  toSpooncup:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -113.0,5.0,117.0:-113.0,6.0,117.0
+    world: bunker
+    destination: pl:Spooncup
+  toHUB2:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -2478.0,70.0,2060.0:-2475.0,72.0,2060.0
+    world: world
+    destination: p:tocovid
+  toend:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Supercatmangod
+    location: -111.0,4.0,111.0:-111.0,4.0,111.0
+    world: bunker
+    destination: p:endportal

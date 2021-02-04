@@ -1,0 +1,396 @@
+[15:33:27] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:33:31] [Worker-Main-2/INFO]: Loaded 7 recipes
+[15:33:36] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[15:33:36] [Server thread/INFO]: Loading properties
+[15:33:36] [Server thread/INFO]: This server is running Paper version git-Paper-454 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[15:33:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:33:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:33:37] [Server thread/INFO]: Debug logging is disabled
+[15:33:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:33:37] [Server thread/INFO]: Generating keypair
+[15:33:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:33:37] [Server thread/INFO]: Using epoll channel type
+[15:33:40] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.2.76
+[15:33:41] [Server thread/INFO]: [ItemEditor] Loading ItemEditor v0.1.11
+[15:33:41] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.7
+[15:33:41] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.2+fc3c499
+[15:33:44] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@676fe8e4]
+[15:33:44] [Server thread/INFO]: [SeePlayerInventory] Loading SeePlayerInventory v2.7.1
+[15:33:44] [Server thread/INFO]: [OpenInv] Loading OpenInv v4.1.5
+[15:33:44] [Server thread/INFO]: [ImageOnMap] Loading ImageOnMap v4.0
+[15:33:44] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[15:33:44] [Server thread/INFO]: [TabList] Loading TabList v5.5.1
+[15:33:44] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.2.1-b834
+[15:33:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:33:44] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.2.76
+[15:33:45] [Server thread/INFO]:         __    
+[15:33:45] [Server thread/INFO]:   |    |__)   LuckPerms v5.2.76
+[15:33:45] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[15:33:45] [Server thread/INFO]: 
+[15:33:45] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[15:33:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[15:33:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[15:33:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[15:33:51] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 6432ms)
+[15:33:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.2+fc3c499
+[15:33:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:33:52] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[15:33:59] [Server thread/INFO]: Preparing level "world"
+[15:33:59] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:34:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:34:04] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:04] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:05] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:05] [Server thread/INFO]: Preparing spawn area: 1%
+[15:34:05] [Server thread/INFO]: Time elapsed: 4349 ms
+[15:34:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:34:06] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[15:34:06] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:06] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:06] [Server thread/INFO]: Preparing spawn area: 8%
+[15:34:07] [Server thread/INFO]: Preparing spawn area: 35%
+[15:34:08] [Server thread/INFO]: Preparing spawn area: 51%
+[15:34:08] [Server thread/INFO]: Preparing spawn area: 59%
+[15:34:08] [Server thread/INFO]: Preparing spawn area: 99%
+[15:34:09] [Server thread/INFO]: Time elapsed: 3501 ms
+[15:34:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:34:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[15:34:09] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:09] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:10] [Server thread/INFO]: Preparing spawn area: 33%
+[15:34:10] [Server thread/INFO]: Time elapsed: 1344 ms
+[15:34:10] [Server thread/INFO]: [ItemEditor] Enabling ItemEditor v0.1.11
+[15:34:10] [Server thread/INFO]: [ItemEditor] ItemEditor v0.1.11, by Freakey
+[15:34:11] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.7
+[15:34:11] [Server thread/INFO]: [SeePlayerInventory] Enabling SeePlayerInventory v2.7.1
+[15:34:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mSeePlayerInventory Enabled.[0m
+[15:34:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mPlugin by [33m[peti446][0m
+[15:34:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mVersion: [33m2.7.1[0m
+[15:34:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mChecking for updates.............[0m
+[15:34:11] [Server thread/INFO]: [36m[SeePlayerInventory] [32mChecking for updates................[0m
+[15:34:12] [Server thread/WARN]: [36m[SeePlayerInventory] [31mThere is a new version available![0m
+[15:34:12] [Server thread/WARN]: [36m[SeePlayerInventory] [31mYour can get it from: [34mhttps://files.forgecdn.net/files/3187/924/SeePlayerInventory-2.7.2.jar[0m
+[15:34:12] [Server thread/INFO]: [OpenInv] Enabling OpenInv v4.1.5
+[15:34:12] [Server thread/INFO]: [ImageOnMap] Enabling ImageOnMap v4.0
+[15:34:13] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:34:13] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:34:13] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:34:14] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:34:14] [Server thread/INFO]: [ImageOnMap] Loaded 1 player map files.
+[15:34:14] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[15:34:14] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[15:34:14] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[15:34:18] [Server thread/INFO]: Preparing start region for dimension minecraft:bunker
+[15:34:18] [Server thread/INFO]: Loaded 0 spawn chunks for world bunker
+[15:34:18] [Server thread/INFO]: Preparing spawn area: 0%
+[15:34:18] [Server thread/INFO]: Preparing spawn area: 1%
+[15:34:19] [Server thread/INFO]: Preparing spawn area: 9%
+[15:34:19] [Server thread/INFO]: Preparing spawn area: 54%
+[15:34:20] [Server thread/INFO]: Time elapsed: 2090 ms
+[15:34:20] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[15:34:20] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:34:21] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[15:34:21] [Server thread/INFO]: [TabList] Enabling TabList v5.5.1
+[15:34:21] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.2.1-b834
+[15:34:21] [Server thread/INFO]: [Multiverse-Portals] 6 - Portals(s) loaded
+[15:34:22] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[15:34:22] [Server thread/INFO]: [Multiverse-Portals 4.2.1-b834]  Enabled - By Rigby and fernferret
+[15:34:22] [Server thread/INFO]: Running delayed init tasks
+[15:34:22] [Server thread/INFO]: Done (46.684s)! For help, type "help"
+[15:34:22] [Server thread/INFO]: Timings Reset
+[15:34:47] [User Authenticator #1/INFO]: UUID of player Supercatmangod is fe207f7e-9257-4a5a-a63a-c5e1b360ca94
+[15:34:49] [Server thread/INFO]: Supercatmangod joined the game
+[15:34:49] [Server thread/INFO]: Supercatmangod[/192.168.0.17:50364] logged in with entity id 180 at ([world]-2713.263700431656, 68.0, 2411.2216527357327)
+[15:34:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5094ms or 101 ticks behind
+[15:35:16] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:35:16] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:35:28] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:35:28] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:35:31] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:35:31] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:35:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13031ms or 260 ticks behind
+[15:36:07] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:36:07] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:36:10] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:36:10] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:36:12] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:36:12] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:36:14] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:36:14] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:36:16] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:36:16] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:37:10] [Server thread/INFO]: Supercatmangod issued server command: /kill @e[type=minecraft:chicken]
+[15:37:10] [Server thread/INFO]: [Supercatmangod: Killed 15 entities]
+[15:37:23] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:37:23] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:37:25] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:37:25] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:37:36] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:37:36] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:37:39] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:37:39] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:38:40] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:38:40] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:39:43] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:39:43] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:39:47] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:39:47] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:39:54] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:39:54] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:40:11] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:40:11] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:40:26] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:40:26] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:40:28] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:40:28] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:40:38] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:40:38] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:40:44] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:40:44] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:40:45] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:40:45] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:40:48] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:40:48] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:40:50] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:40:50] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:41:06] [Server thread/INFO]: Supercatmangod was stung to death
+[15:41:22] [Server thread/INFO]: Supercatmangod issued server command: /setblock ~ ~ ~ fire
+[15:41:22] [Server thread/INFO]: [Supercatmangod: Changed the block at -2708, 68, 2418]
+[15:42:32] [Server thread/INFO]: Supercatmangod issued server command: /give @s minecraft:oak_planks
+[15:42:33] [Server thread/INFO]: [Supercatmangod: Gave 1 [Oak Planks] to Supercatmangod]
+[15:42:37] [Server thread/INFO]: Supercatmangod issued server command: /give @s minecraft:oak_fence
+[15:42:37] [Server thread/INFO]: [Supercatmangod: Gave 1 [Oak Fence] to Supercatmangod]
+[15:43:05] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:43:05] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:43:46] [Server thread/INFO]: Supercatmangod issued server command: //wand
+[15:43:49] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:43:49] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:43:50] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:43:50] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:43:52] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:43:52] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:43:53] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:43:53] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:44:13] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:44:13] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:44:37] [Server thread/INFO]: Supercatmangod issued server command: //set air
+[15:44:58] [Server thread/INFO]: Supercatmangod issued server command: //walls obsidian
+[15:45:51] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[15:45:51] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[15:45:53] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:45:53] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:46:02] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:46:02] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:46:06] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:46:06] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:46:18] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:46:18] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:49:51] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:49:51] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:49:54] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:49:54] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:50:51] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[15:50:51] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[15:50:54] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[15:50:54] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[15:51:36] [User Authenticator #2/INFO]: UUID of player SpoonCup is b0e7c678-3480-43af-8ea2-423b35309625
+[15:51:36] [Server thread/INFO]: SpoonCup joined the game
+[15:51:36] [Server thread/INFO]: SpoonCup[/70.27.151.228:61279] logged in with entity id 2838 at ([world]-2704.9804218691315, 63.0, 2406.4430956002107)
+[16:01:39] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:01:39] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:01:43] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:01:43] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:02:00] [Server thread/INFO]: Supercatmangod issued server command: /gamemode adventure
+[16:02:00] [Server thread/INFO]: [Supercatmangod: Set own game mode to Adventure Mode]
+[16:02:20] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:02:20] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:02:24] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:02:24] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:02:30] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:02:30] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:02:34] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:02:34] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:02:59] [Server thread/INFO]: Supercatmangod issued server command: /luckperms editor
+[16:03:59] [Server thread/INFO]: Supercatmangod issued server command: /luckperms applyedits hr90xQDBiG
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add minecraft.command.gamemode true
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add mv.bypass.gamemode.* true
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add minecraft.command.minecraft:gamemode true
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:04:01] [pool-13-thread-1/INFO]: [LP] LOG > webeditor remove * true
+[16:04:05] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:04:05] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:04:13] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:04:13] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:04:17] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:04:17] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:07:17] [Server thread/INFO]: Supercatmangod issued server command: /give @s minecraft:lever
+[16:07:17] [Server thread/INFO]: [Supercatmangod: Gave 1 [Lever] to Supercatmangod]
+[16:09:32] [Server thread/INFO]: Supercatmangod issued server command: /gamemode adventure
+[16:09:32] [Server thread/INFO]: [Supercatmangod: Set own game mode to Adventure Mode]
+[16:09:34] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:09:34] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:09:43] [Server thread/INFO]: Supercatmangod issued server command: /gamemode adventure
+[16:09:43] [Server thread/INFO]: [Supercatmangod: Set own game mode to Adventure Mode]
+[16:09:51] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:09:51] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:10:13] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:10:13] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:11:47] [Server thread/INFO]: Supercatmangod issued server command: /tp SpoonCup ~ ~ ~
+[16:11:47] [Server thread/INFO]: [Supercatmangod: Teleported SpoonCup to -2703.433912358969, 68.0, 2422.1353493478837]
+[16:11:58] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:11:58] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:12:06] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:12:06] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:12:09] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:12:09] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:13:05] [Server thread/INFO]: Supercatmangod issued server command: /give @s minecraft:warped_button
+[16:13:05] [Server thread/INFO]: [Supercatmangod: Gave 1 [Warped Button] to Supercatmangod]
+[16:14:32] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:14:32] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:15:00] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:15:00] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:15:58] [Server thread/INFO]: Supercatmangod issued server command: //wand
+[16:16:08] [Server thread/INFO]: Supercatmangod issued server command: //set air
+[16:16:32] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:16:36] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:16:42] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:17:08] [Server thread/INFO]: Supercatmangod issued server command: //walls glowstone
+[16:17:19] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:17:25] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:17:28] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:17:33] [Server thread/INFO]: Supercatmangod issued server command: //set smooth_stone
+[16:17:36] [Server thread/INFO]: SpoonCup issued server command: /gamemode survival Supercatmangod
+[16:17:36] [Server thread/INFO]: [SpoonCup: Set Supercatmangod's game mode to Survival Mode]
+[16:17:46] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:17:46] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:18:15] [Server thread/INFO]: SpoonCup issued server command: /spi
+[16:18:20] [Async Chat Thread - #0/INFO]: []<SpoonCup> inv
+[16:18:24] [Server thread/INFO]: SpoonCup issued server command: /inv
+[16:19:20] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:20] [Server thread/INFO]: SpoonCup issued server command: /teleport SpoonCup Supercatmangod
+[16:19:22] [Server thread/INFO]: Supercatmangod issued server command: //undo all
+[16:19:25] [Server thread/INFO]: Supercatmangod issued server command: //undo *
+[16:19:28] [Server thread/INFO]: Supercatmangod issued server command: //undo all
+[16:19:29] [Server thread/INFO]: Supercatmangod issued server command: //undo all
+[16:19:32] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:33] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:33] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:34] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:34] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:35] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:35] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:36] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:36] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:39] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:40] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:41] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:41] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:42] [Server thread/INFO]: Supercatmangod issued server command: //undo
+[16:19:49] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:19:49] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:19:52] [Server thread/INFO]: Supercatmangod issued server command: /gamemode creative
+[16:19:52] [Server thread/INFO]: [Supercatmangod: Set own game mode to Creative Mode]
+[16:20:05] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:20:05] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:20:23] [Server thread/INFO]: Supercatmangod fell from a high place
+[16:21:16] [Server thread/INFO]: SpoonCup issued server command: /tell Supercatmangod e
+[16:21:49] [Server thread/INFO]: SpoonCup issued server command: /tp SpoonCup Supercatmangod
+[16:22:04] [Server thread/INFO]: Supercatmangod issued server command: /luckperms applyedits 8wkItYOeCZ
+[16:22:05] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:22:05] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add minecraft.command.minecraft:teleport true
+[16:22:05] [pool-13-thread-1/INFO]: [LP] LOG > (Supercatmangod) [U] (spooncup)
+[16:22:05] [pool-13-thread-1/INFO]: [LP] LOG > webeditor add minecraft.command.teleport true
+[16:22:12] [Server thread/INFO]: Supercatmangod fell from a high place
+[16:23:05] [Server thread/INFO]: Supercatmangod fell from a high place
+[16:23:08] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:23:08] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:23:16] [Server thread/INFO]: Supercatmangod issued server command: /gamemode survival
+[16:23:16] [Server thread/INFO]: [Supercatmangod: Set own game mode to Survival Mode]
+[16:23:25] [Server thread/INFO]: Supercatmangod issued server command: /tp SpoonCup ~ ~ ~
+[16:23:25] [Server thread/INFO]: [Supercatmangod: Teleported SpoonCup to -2705.089623034287, 34.0, 2405.699999988079]
+[16:23:32] [Server thread/INFO]: Supercatmangod issued server command: /tp SpoonCup ~ ~ ~
+[16:23:32] [Server thread/INFO]: [Supercatmangod: Teleported SpoonCup to -2704.300000011921, 30.0, 2403.3403212294306]
+[16:23:34] [Server thread/INFO]: Supercatmangod issued server command: /gamemode spectator
+[16:23:34] [Server thread/INFO]: [Supercatmangod: Set own game mode to Spectator Mode]
+[16:23:38] [Server thread/INFO]: Supercatmangod lost connection: Disconnected
+[16:23:38] [Server thread/INFO]: Supercatmangod left the game
+[16:33:04] [Server thread/INFO]: SpoonCup lost connection: Disconnected
+[16:33:04] [Server thread/INFO]: SpoonCup left the game
+[17:36:38] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:54) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:650) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:418) ~[patched_1.16.5.jar:git-Paper-454]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[patched_1.16.5.jar:git-Paper-454]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[patched_1.16.5.jar:git-Paper-454]
+	at net.minecraft.server.v1_16_R3.DedicatedServer$1.run(DedicatedServer.java:67) ~[patched_1.16.5.jar:git-Paper-454]
+Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.terminal.impl.ExecPty.doSetAttr(ExecPty.java:93) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.terminal.impl.AbstractPty.setAttr(AbstractPty.java:29) ~[patched_1.16.5.jar:git-Paper-454]
+	at org.jline.terminal.impl.AbstractPosixTerminal.setAttributes(AbstractPosixTerminal.java:52) ~[patched_1.16.5.jar:git-Paper-454]
+	... 5 more
+[17:36:38] [SIGCONT handler/WARN]: Exception in thread "SIGCONT handler" Exception in thread "SIGCONT handler" java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:52)
+[17:36:38] [SIGCONT handler/WARN]: 	at com.sun.proxy.$Proxy18.handle(Unknown Source)
+[17:36:38] [SIGCONT handler/WARN]: 	at jdk.unsupported/sun.misc.Signal$InternalMiscHandler.handle(Signal.java:198)
+[17:36:38] [SIGCONT handler/WARN]: 	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:220)
+[17:36:38] [SIGCONT handler/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:834)
+[17:36:38] [SIGCONT handler/WARN]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[17:36:38] [Server thread/INFO]: Stopping server
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[17:36:38] [SIGCONT handler/WARN]: 	... 9 more
+[17:36:38] [SIGCONT handler/WARN]: java.io.IOError: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:46)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractTerminal.enterRawMode(AbstractTerminal.java:117)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.reader.impl.LineReaderImpl.handleSignal(LineReaderImpl.java:1043)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractTerminal.raise(AbstractTerminal.java:81)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.PosixSysTerminal.lambda$handle$1(PosixSysTerminal.java:65)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.utils.Signals.lambda$register$1(Signals.java:52)
+[17:36:38] [SIGCONT handler/WARN]: 	at com.sun.proxy.$Proxy18.handle(Unknown Source)
+[17:36:38] [SIGCONT handler/WARN]: 	at jdk.unsupported/sun.misc.Signal$InternalMiscHandler.handle(Signal.java:198)
+[17:36:38] [SIGCONT handler/WARN]: 	at java.base/jdk.internal.misc.Signal$1.run(Signal.java:220)
+[17:36:38] [SIGCONT handler/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:834)
+[17:36:38] [SIGCONT handler/WARN]: Caused by: java.io.IOException: Error executing 'stty -a': stty: 'standard input': Input/output error
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.utils.ExecHelper.exec(ExecHelper.java:42)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.ExecPty.doGetConfig(ExecPty.java:175)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.ExecPty.getAttr(ExecPty.java:87)
+[17:36:38] [SIGCONT handler/WARN]: 	at org.jline.terminal.impl.AbstractPosixTerminal.getAttributes(AbstractPosixTerminal.java:44)
+[17:36:38] [SIGCONT handler/WARN]: 	... 9 more
+[17:36:39] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:36:39] [Server thread/INFO]: Saving players
+[17:36:39] [Server thread/INFO]: Saving worlds
+[17:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[bunker]'/minecraft:bunker
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (bunker): All chunks are saved
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:36:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:36:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (bunker): All chunks are saved
+[17:36:43] [Server thread/INFO]: Flushing Chunk IO
+[17:36:43] [Server thread/INFO]: Closing Thread Pool
+[17:36:43] [Server thread/INFO]: Closing Server
